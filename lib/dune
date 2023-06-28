@@ -1,2 +1,2 @@
 (library
- (name training_ocaml))
+ (name exolib))

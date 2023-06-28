@@ -1,2 +1,3 @@
 (test
- (name training_ocaml))
+ (name last)
+ (libraries alcotest exolib))
