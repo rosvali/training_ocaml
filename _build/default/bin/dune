@@ -1,4 +1,0 @@
-(executable
- (public_name training_ocaml)
- (name main)
- (libraries training_ocaml))
